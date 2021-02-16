@@ -1,2 +1,2 @@
 # Search
-A stylish search bar v1
+A stylish search bar v2.0
