@@ -1,2 +1,3 @@
-# Search
-A stylish search bar v2.0
+# A Search bar
+
+useless
